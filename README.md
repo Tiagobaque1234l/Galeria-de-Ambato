@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <title>Galeria de Ambato</title>
+  </head>
+  <body bgcolor ="orange">
+    <h1 style ="color:black"; font size ="25"; font family ="verdana"; align ="center"><u>Galeria de Ambato</u><h1>
+    <br>
+    <br>
+    <center><img src ="Ambatoo.jpeg"; width ="350"; height ="170">
+    <br>
+    <br>
+    <center><img src ="ambato1.jpeg"; width ="350"; height ="170">
+    <br>
+    <br>
+    <center><img src ="ambato2.jpg"; width ="350"; height ="170">
+    <br>
+    <br>
+    <center><img src ="ambato3.jpeg"; width ="350"; height ="170">
+    <br>
+    <br>
+    <center><img src ="ambato4.jpeg"; width ="350"; height ="170">
+    <br>
+    <br>
+    <center><img src ="ambato5.jpg"; width ="350"; height ="170">
+    <br>
+    <br>
+    <center><img src ="casamontalvo.jpg"; width ="350"; height ="170">
+    <br>
+    <br>
+    <center><img src ="ambatoop.jpeg"; width ="350"; height ="170">
+    <br>
+    <br>
+    <center><img src ="desfilexd.jpg"; width ="350"; height ="170">
+    <br>
+    <br>
+    <center><img src ="parqueflores.jpg"; width ="350"; height ="170">
+    <br>
+    <br>
+  </body>
+</html>
